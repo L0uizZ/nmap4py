@@ -1,4 +1,4 @@
-<h1>nmap4py - Network Scanner</h1>
+<h1>Nmap4py - Network Scanner</h1>
 
 <h2> about </h2>
 
