@@ -23,4 +23,4 @@
 
  1) run nmap4py
 
-         python nmap4.py
+         sudo python nmap4.py
