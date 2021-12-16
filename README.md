@@ -2,7 +2,7 @@
 
 <h2> about </h2>
 
-<p>nmap4py is a network-scan-tool using the popular security scanner nmap<br>
+<p>nmap4py is a network-scanner tool using the popular security scanner nmap<br>
 </p>
 
 <h2> dependencies </h2>
