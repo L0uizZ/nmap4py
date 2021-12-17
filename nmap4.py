@@ -74,7 +74,7 @@ def __main__():
 	host = input("[*] Enter host address: ")
 	type(host)
 
-	scantype = input("1) SYN ACK 2) UDP 3) COMPREHENSIVE\n[*] Select scan-type: ")
+	scantype = input("1) SYN ACK 2) UDP 3) COMPREHENSIVE\n[*] Select scan type: ")
 
 	portScan(host, scantype)
 
